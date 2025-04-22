@@ -1,0 +1,32 @@
+h1, h2 {
+  font-family: Lato;
+  text-align: center;
+}
+body {
+  background-color:white;
+}
+
+.taille .pound {
+  display: block;
+  margin: 0 auto;
+}
+
+.question {
+  text-align: center;
+  font-family: Lato;
+  margin-top: 20px;
+}
+
+button[type="submit"]{
+  background-color: paleturquoise;
+  color : black;
+  border : none;
+}
+
+.title {
+  text-align: center;
+}
+
+.formule {
+  text-align: center;
+}
